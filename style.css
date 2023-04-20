@@ -190,4 +190,24 @@ footer h5{
     .pro-nav a{
         padding: 10px;
     }
+    .home .bg-pic img{
+        height: 50vh;
+        width: 100%;
+    }
+}
+@media (max-width: 420px){
+    .supports{
+        width: 100%;
+        height: auto;
+    }
+    .pro-nav a{
+        padding: 8px;
+    }
+    .home .bg-pic img{
+        height: 50vh;
+        width: 100%;
+    }
+    .footer .foot-content a{
+        padding: 3px;
+    }
 }
